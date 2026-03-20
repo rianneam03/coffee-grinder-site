@@ -1,53 +1,36 @@
-# ☕ The Coffee Grinder – Coffee Shop Website
+# The Coffee Grinder - Demo Website
 
-A modern, responsive website designed for a local coffee shop in Jenks, Oklahoma.  
-This project was created to showcase a cozy, artsy, community-focused café experience online.
+A polished demo website for **The Coffee Grinder**, an Amsterdam-style coffee house in Jenks, OK.  
+This project showcases a full website design with animations, custom color scheme, and responsive layout.
 
----
+**Live Demo:** 
 
-## 🌐 Live Website
 https://thecoffeegrinder-jenks.netlify.app/
-
----
-
-## 📌 About This Project
-
-This website was built as a concept redesign for a local coffee shop to improve its online presence and better represent its atmosphere, events, and menu.
-
-The design is inspired by:
-- Cozy Amsterdam-style coffee houses
-- Local art and community culture
-- Warm, inviting coffee shop interiors
-
----
-
-## ✨ Features
-
-- Responsive design (mobile, tablet, desktop)
-- Smooth animations and transitions
-- Warm coffee-inspired color palette
-- Menu section layout
-- Events and community highlights
-- Location and hours section
-- Clean and modern UI
 
 ---
 
 ## 🛠️ Built With
 
-- Initial UI generated with AI assistance and customized for design and deployment
 - HTML5  
 - CSS3  
 - JavaScript  
+- TailwindCSS  
+- AI-assisted design & customization for a modern, responsive layout
 
 ---
 
-## 🚀 Deployment
+## 🎨 Features
 
-This site is deployed using Netlify for fast and reliable hosting.
+- Responsive hero section with animations  
+- Menu and specials sections  
+- Gallery & testimonials sections  
+- Hours and location section with embedded Google Map  
+- Mobile-friendly navigation  
+- Modern color palette inspired by coffee tones
 
 ---
 
-## 📍 Inspiration
+## ⚡ Notes
 
-Local coffee shop in Jenks, Oklahoma with a strong community vibe, live music events, and a cozy environment.
+- This project is a **demo/portfolio piece**; The Coffee Grinder has not adopted the site.  
+- Designed for showcasing web development skills, responsive design, and UI creativity.
