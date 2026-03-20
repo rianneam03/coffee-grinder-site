@@ -6,7 +6,7 @@ This project was created to showcase a cozy, artsy, community-focused café expe
 ---
 
 ## 🌐 Live Website
-👉 https://YOUR-NETLIFY-LINK.netlify.app
+https://thecoffeegrinder-jenks.netlify.app/
 
 ---
 
